@@ -21,7 +21,7 @@ require File.dirname(__FILE__) + '/deprecated'
 module Gruff
   class Base
 
-    include Magick
+    include MiniMagick
     include Deprecated
 
     # Draw extra lines showing where the margins and text centers are
