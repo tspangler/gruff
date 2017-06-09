@@ -1147,7 +1147,7 @@ module Gruff
 
 end # Gruff
 
-module Magick
+module MiniMagick
 
   class Draw
 
